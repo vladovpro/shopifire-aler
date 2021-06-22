@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Shopyfi free shipping extension
         </a>
       </header>
     </div>
